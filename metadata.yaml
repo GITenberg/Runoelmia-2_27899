@@ -1,0 +1,29 @@
+_repo: Runoelmia-2_27899
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brummer, F. F.
+    aliases:
+    - –r–r
+    - Brummer, Frans Ferdinand
+    birthdate: 1847
+    deathdate: 1893
+    gutenberg_agent_id: '33001'
+    url: http://www.gutenberg.org/2009/agents/33001
+description: ''
+gutenberg_issued: '2009-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27899'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry'
+- !lcc 'PH'
+title: Runoelmia 2
+url: http://www.gutenberg.org/ebooks/27899

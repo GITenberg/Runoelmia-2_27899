@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '33001'
     url: http://www.gutenberg.org/2009/agents/33001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27899#Runoelmia-2
 gutenberg_issued: '2009-01-26'
 gutenberg_type: Text
 identifiers:
